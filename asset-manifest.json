@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.5ae39715.js",
-    "index.html": "/index.html",
-    "main.5ae39715.js.map": "/static/js/main.5ae39715.js.map"
+    "main.js": "/aws-encryption-sdk-message-viewer/static/js/main.5ae39715.js",
+    "index.html": "/aws-encryption-sdk-message-viewer/index.html",
+    "main.5ae39715.js.map": "/aws-encryption-sdk-message-viewer/static/js/main.5ae39715.js.map"
   },
   "entrypoints": [
     "static/js/main.5ae39715.js"
